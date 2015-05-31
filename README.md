@@ -1,5 +1,5 @@
 # gielda samochodowa
-Projekt akademicki wykonany dla systemu Android.
+Projekt akademicki wykonany w jezyku Java dla systemu Android.
 
 ![Alt text](https://github.com/mkarebski/mkarebski.github.io/blob/master/projects/gielda/1.png?raw=true "1.png")
 ![Alt text](https://github.com/mkarebski/mkarebski.github.io/blob/master/projects/gielda/2.png?raw=true "2.png")
